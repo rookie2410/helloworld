@@ -24,6 +24,12 @@ Build binary
 go build
 ```
 
+Added Docker File
+```bash
+docker run rookie2410/hellodocker-go
+```
+
+
 Install binary
 
 ```bash
